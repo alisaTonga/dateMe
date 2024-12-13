@@ -1,6 +1,15 @@
 *{
+    margin: 0;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
     background-color: #fae8ed;
 }    
+.body{
+    grid-template-columns: 1fr 3fr 1fr;
+    display: grid;
+}
+.block{
+    background-color: white;
+    height: 2 vh;
+}

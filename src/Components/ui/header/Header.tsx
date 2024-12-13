@@ -1,10 +1,10 @@
 import React from 'react'
-import styles from './Header.module.css'
+import styles from '../header/Header.module.css'
 
 export const Header = () => {
   return (
-    <div classname={styles.container}>
-        <p>👩‍❤️‍👨 Let's find perfect date for you</p>
+    <div>
+        <p className={styles.container} >👩‍❤️‍👨 Let's find perfect date for you</p>
     </div>
   )
 }

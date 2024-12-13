@@ -2,4 +2,8 @@
     height: 100px;
     background-color: #b562ff;
     color: #ff99b6;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
