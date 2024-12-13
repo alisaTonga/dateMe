@@ -16,7 +16,7 @@ export const foods: IFoodElement[] = [
     {
         id: 2,
         cuisine: "French",
-        url: "https://static.vecteezy.com/system/resources/previews/016/544/626/original/traditional-french-meals-france-cuisine-menu-vector.jpg",
+        url: "https://i.pinimg.com/originals/80/24/c6/8024c60d6b5852722f9cf62ed4a99c56.jpg",
         description: "Renowned for its elegance, cheeses, and pastries"
     },
 
@@ -86,7 +86,7 @@ export const foods: IFoodElement[] = [
     {
         id: 12,
         cuisine: "Korean",
-        url: "https://media.istockphoto.com/vectors/set-of-korean-food-flat-design-asia-street-food-illustration-vector-id607253918?k=20&m=607253918&s=612x612&w=0&h=Rx_syiH46fJTTvrbVnaKXe9PllcKcZHaParGJeU9eX0=",
+        url: "https://th.bing.com/th/id/OIP.1sNfTX8m7dL4Y6UxeDn7xAAAAA?rs=1&pid=ImgDetMain",
         description: "Features bold, fermented flavors with kimchi and bibimbap"
     },
 

@@ -5,8 +5,13 @@
     padding: 10px;
     border-radius: 8px;
 }
-.element photo {
+.photo {
+    border-radius: 25px;
+    margin: 5px;
     width: 180px;
     height: 180px;
     object-fit: cover;
+}
+.description{
+    padding-right: 10px;
 }
