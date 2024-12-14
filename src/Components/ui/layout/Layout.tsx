@@ -4,14 +4,10 @@ import { Header } from '../header/Header'
 import { Food } from 'Components/pages/food/Food'
 export const Layout = () => {
   return (
-    <div >
+    <div>
         <Header />
         <div className={styles.body}>
-          <div className={styles.block}>
-          </div>
-            <Food />
-            <div className={styles.block}>
-          </div>
+        <Food />
         </div>
     </div>
   )

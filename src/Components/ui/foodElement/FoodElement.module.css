@@ -13,5 +13,10 @@
     object-fit: cover;
 }
 .description{
-    padding-right: 10px;
+    text-align: center;
+    margin-top: 10px;
+    justify-content: center;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-overflow: initial;
 }
